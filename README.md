@@ -4,12 +4,15 @@ jquery.smoothScrollTo
 Usage example.
 
 HTML:
+```html
 <a href="#foobar" class="anchor">Lorem ipsum</a>
 <!-- ... -->
 <div id="foobar">target div</div>
+```
 
-JS:
+JS:```javascript
 $('a.anchor').smoothScrollTo();
+```
 
 
 Options:
