@@ -2,7 +2,7 @@
  * jQuery Smooth Scroll To plugin.
  *
  * @author   Nikodem Osmialowski - www.osmialowski.pl
- * @license  GPL v2
+ * @license  GPL v3
  * @version  0.1 2013-08-01
  */
 ;(function ($, window, document, undefined) {
