@@ -10,7 +10,8 @@ HTML:
 <div id="foobar">target div</div>
 ```
 
-JS:```javascript
+JS:
+```javascript
 $('a.anchor').smoothScrollTo();
 ```
 
