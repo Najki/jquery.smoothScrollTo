@@ -15,6 +15,8 @@ JS:
 $('a.anchor').smoothScrollTo();
 ```
 
+Demo:
+http://najki.github.io/jquery.smoothScrollTo/demo.html
 
 Options:
 * scrollTime - animation time in miliseconds
